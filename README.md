@@ -12,7 +12,4 @@ Me chamo Gabriel Prando, tenho 19 anos e sou desenvolvedor fullStack. Atualmente
 ## Alguns links importantes
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Prando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-prando-85201b198/)](https://www.linkedin.com/in/gabriel-prando-85201b198/)
 [![Gmail Badge](https://img.shields.io/badge/-gprando55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gprando55@gmail.com)](mailto:gprando55@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Prando__?style=social)](https://twitter.com/Prando__)
-![(https://img.shields.io/website?url=https%3A%2F%2Fgabrielprando.tech%2F)](https://img.shields.io/website?url=https%3A%2F%2Fgabrielprando.tech%2F)
-
 
