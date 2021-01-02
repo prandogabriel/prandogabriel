@@ -43,12 +43,7 @@
 [![Nginx](https://img.shields.io/badge/-Nginx-white?style=flat-square&logo=nginx)](https://github.com/gprando/)
 [![Nginx](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes)](https://github.com/gprando/)
 
-**Other technologies**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/gprando/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)](https://github.com/gprando/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)](https://github.com/gprando/)
-[![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)](https://github.com/gprando/)
-[![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)](https://github.com/gprando/)
+
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/gprando/)
@@ -71,7 +66,12 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://github.com/gprando/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/gprando/)
 
-
+**Other technologies**
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/gprando/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia)](https://github.com/gprando/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)](https://github.com/gprando/)
+[![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)](https://github.com/gprando/)
+[![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)](https://github.com/gprando/)
 ## Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Prando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-prando-85201b198/)](https://www.linkedin.com/in/gabriel-prando-85201b198/)
 [![Gmail Badge](https://img.shields.io/badge/-gprando55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gprando55@gmail.com)](mailto:gprando55@gmail.com)
