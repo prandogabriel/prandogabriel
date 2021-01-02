@@ -75,7 +75,6 @@
 ## Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Prando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-prando-85201b198/)](https://www.linkedin.com/in/gabriel-prando-85201b198/)
 [![Gmail Badge](https://img.shields.io/badge/-gprando55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gprando55@gmail.com)](mailto:gprando55@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Whatsapp-24CC63?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5546999039412)](https://api.whatsapp.com/send?phone=5546999039412)
+[![Gmail Badge](https://img.shields.io/badge/-Whatsapp-24CC63?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5546999039412)](https://api.whatsapp.com/send?phone=5546999039412)  
 
-<br>
 🔥 From [Gabriel Prando](https://github.com/gprando)
