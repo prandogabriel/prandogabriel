@@ -1,7 +1,7 @@
 ## Hi there  👋, 
 
 - CEO at [OCCAM](www.occamengenhaira.com) Engenharia, junior computer engineering company
-- Full stack developer at Bonaparte agency
+-  Backend and DevOps developer at Bonaparte agency
 - I am currently focusing on backend and devOps development
 - JavaScript enthusiast
 
