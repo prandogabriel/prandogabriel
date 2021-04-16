@@ -7,17 +7,10 @@
 
 <h1 align="center"><img align="center" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt=""  width="500"></img></h1>
 
-<center>
-          <!--START_SECTION:waka-->
-```text
-TypeScript   7 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   35.21 % 
-JavaScript   6 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
-JSON         3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-YAML         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Other        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-```
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-  </center>
+
 <center>
   
 <table>
