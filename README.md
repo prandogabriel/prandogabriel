@@ -18,6 +18,10 @@
 <table>
   <tr>
       <td><img width="495px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gprando&hide_border=true" /></td>
+      <td>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
+        </td>
   </tr>   
 </table>
 </center>
