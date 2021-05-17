@@ -42,9 +42,7 @@ Other        21 mins         ▓░░░░░░░░░░░░░░░░
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/gprando/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)](https://github.com/gprando/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)](https://github.com/gprando/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/gprando/)
-[![C](https://img.shields.io/badge/-Elixir-674773?style=flat-square&logo=elixir&logoColor=white)](https://github.com/gprando/)
 
 
 **Front-end / Mobile**
@@ -63,7 +61,7 @@ Other        21 mins         ▓░░░░░░░░░░░░░░░░
 **DevOps**
 [![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)](https://github.com/gprando/)
 [![Nginx](https://img.shields.io/badge/-Nginx-white?style=flat-square&logo=nginx)](https://github.com/gprando/)
-[![Nginx](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes)](https://github.com/gprando/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=kubernetes)](https://github.com/gprando/)
 
 
 
