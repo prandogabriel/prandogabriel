@@ -10,13 +10,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
-TypeScript   10 hrs 17 mins  █████████████████▓░░░░░░░   70.55 % 
-YAML         2 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JavaScript   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Properties   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TypeScript   10 hrs 11 mins  ████████████████▒░░░░░░░░   65.86 % 
+YAML         3 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
+JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Properties   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 <!--END_SECTION:waka-->
 
