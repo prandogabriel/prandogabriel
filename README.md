@@ -1,7 +1,7 @@
 ## Hi there  👋, 
 
 - CEO at [OCCAM](www.occamengenhaira.com) Engenharia, junior computer engineering company
--  Backend and DevOps developer at Bonaparte agency
+-  Backend developer at [Conta Simples](https://contasimples.com)
 - I am currently focusing on backend and devOps development
 - JavaScript enthusiast
 
