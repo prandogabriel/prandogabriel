@@ -10,13 +10,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-TypeScript   15 hrs 29 mins  ████████████████████████▒   96.88 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-SQL          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript   17 hrs 44 mins  ███████████████████████▓░   95.25 % 
+SQL          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
