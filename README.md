@@ -1,6 +1,6 @@
 <h2>Hi there  👋,</h2> </br>
 
-<p><em>- CEO at <a href="https://www.occamengenhaira.com">OCCAM</a> Engenharia, junior computer engineering company
+<p><em>- CEO at <a href="https://occamengenharia.com/">OCCAM</a> Engenharia, junior computer engineering company
 </em></p>
 
 <p><em>- Backend Software Engineer at <a href="https://contasimples.com">Conta Simples</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
