@@ -91,5 +91,3 @@ Java                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
-
-🔥 From [Gabriel Prando](https://github.com/gprando)
