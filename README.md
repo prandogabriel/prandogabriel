@@ -1,10 +1,8 @@
 <h2>Hi there  👋,</h2> </br>
 
-<p><em>- CEO at <a href="https://occamengenharia.com/">OCCAM</a> Engenharia, junior computer engineering company
-</em></p>
-
 <p><em>- Backend Software Engineer at <a href="https://contasimples.com">Conta Simples</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p></br>
+
 
 [![Linkedin: gprando55](https://img.shields.io/badge/-gprando55-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gprando55/)](https://www.linkedin.com/in/gprando55)
 ![GitHub followers](https://img.shields.io/github/followers/gprando55?label=Follow&style=social)
