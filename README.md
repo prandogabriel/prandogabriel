@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--4%20Million%20lines%20of%20code-blue)
 
@@ -58,17 +58,17 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 12 mins       ████████████████░░░░░░░░░   67.08% 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-Protocol Buffer          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
+TypeScript               6 hrs 33 mins       █████████████░░░░░░░░░░░░   53.27% 
+Go                       1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
 
 🔥 Editors: 
-VS Code                  13 hrs 43 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 18 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    13 hrs 43 mins      █████████████████████████   100.0%
+Linux                    12 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -89,5 +89,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gprando55/gprando55/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 01:50:30 UTC
+ Last Updated on 05/11/2022 01:31:57 UTC
 <!--END_SECTION:waka-->
