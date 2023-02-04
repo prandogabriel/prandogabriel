@@ -58,17 +58,13 @@ Sunday       57 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       1 hr                ████████░░░░░░░░░░░░░░░░░   32.72% 
-Markdown                 37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67% 
-TypeScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,5 +85,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gprando55/gprando55/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2023 01:24:32 UTC
+ Last Updated on 04/02/2023 01:20:30 UTC
 <!--END_SECTION:waka-->
