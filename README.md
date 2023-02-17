@@ -15,7 +15,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--33%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,5 +85,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gprando55/gprando55/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 01:27:39 UTC
+ Last Updated on 17/02/2023 01:22:55 UTC
 <!--END_SECTION:waka-->
