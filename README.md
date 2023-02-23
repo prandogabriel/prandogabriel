@@ -15,47 +15,45 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--33%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--32.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2023
- > 
 > 📦 388.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       88 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌆 Daytime      138 commits       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-🌃 Evening      229 commits       ████████████░░░░░░░░░░░░░   48.21 % 
-🌙 Night         20 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-
+🌞 Morning                88 commits          █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                138 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+🌃 Evening                229 commits         ████████████░░░░░░░░░░░░░   48.21 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday         119 commits       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Tuesday         87 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Wednesday       57 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday        58 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday          38 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Saturday        58 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Sunday          58 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-
+Monday                   119 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Sunday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -65,7 +63,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,17 +70,17 @@ No Activity Tracked This Week
 ```text
 TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
 Go                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/gprando55/gprando55/master/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/gprando55/gprando55/master/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2023 01:18:00 UTC
+ Last Updated on 23/02/2023 01:16:09 UTC
 <!--END_SECTION:waka-->
