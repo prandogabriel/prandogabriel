@@ -11,9 +11,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -21,11 +21,11 @@
 
 > 📦 389.8 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2023
+> 🏆 207 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -56,18 +56,18 @@ Sunday                   410 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 7 mins       ████████████████████░░░░░   81.48 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TypeScript               14 hrs 20 mins      ███████████████████░░░░░░   76.00 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 3 mins       █████████████████████████   98.45 % 
-Linux                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Mac                      17 hrs 58 mins      ████████████████████████░   95.25 % 
+Linux                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +87,5 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/prandogabriel/prandogabriel/master/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 01:10:09 UTC
+ Last Updated on 22/04/2023 01:11:53 UTC
 <!--END_SECTION:waka-->
