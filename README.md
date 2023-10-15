@@ -7,7 +7,7 @@
 [![Linkedin: gprando55](https://img.shields.io/badge/-gprando55-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prandogabriel/)](https://www.linkedin.com/in/prandogabriel)
 ![GitHub followers](https://img.shields.io/github/followers/prandogabriel?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=prandogabriel.prandogabriel)
-![Waka Readme](https://github.com/prandogabriel/prandogabriel/workflows/Waka%20Readme/badge.svg)
+[![Waka Readme](https://github.com/prandogabriel/prandogabriel/actions/workflows/update-stats.yml.yml/badge.svg)](https://github.com/prandogabriel/prandogabriel/actions/workflows/update-stats.yml.yml)
 
 ---
 
