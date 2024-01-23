@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 09 June 2020 - To: 20 January 2024
+From: 09 June 2020 - To: 21 January 2024
 
 Total Time: 2,638 hrs 19 mins
 
