@@ -1,6 +1,6 @@
 <h2>Hi there  👋,</h2> </br>
 
-<p><em>- Backend Software Engineer at <a href="https://contasimples.com">Conta Simples</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>- Platform Engineer at <a href="https://contasimples.com">Conta Simples</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p></br>
 
 
