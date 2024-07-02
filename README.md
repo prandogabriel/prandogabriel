@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 09 June 2020 - To: 29 June 2024
+From: 09 June 2020 - To: 30 June 2024
 
-Total Time: 2,852 hrs 45 mins
+Total Time: 2,855 hrs 32 mins
 
-TypeScript                 1,660 hrs 20 mins█████████████▓░░░░░░░░░░░   55.33 %
-JavaScript                 329 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-YAML                       210 hrs 52 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Other                      147 hrs 55 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+TypeScript                 1,660 hrs 20 mins█████████████▓░░░░░░░░░░░   55.28 %
+JavaScript                 329 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+YAML                       210 hrs 52 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Other                      148 hrs 3 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
