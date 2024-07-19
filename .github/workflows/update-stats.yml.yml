@@ -42,7 +42,7 @@ jobs:
           SECTION_NAME: waka # optional
           # BLOCKS: -> # optional
           CODE_LANG: golang # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
@@ -52,7 +52,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: github-actions # optional
+          COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: github-actions # optional
           AUTHOR_EMAIL: action-bot@github.com # optional
