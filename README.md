@@ -14,14 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 28 July 2024 - To: 27 August 2024
+From: 29 July 2024 - To: 28 August 2024
 
-Total Time: 32 hrs 8 mins
+Total Time: 30 hrs 40 mins
 
-YAML         13 hrs 3 mins   █████████▒░░░░░░░░░░░░░░░   37.75 %
-Go           8 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-TypeScript   3 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Other        2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+YAML         13 hrs 19 mins  ██████████░░░░░░░░░░░░░░░   40.01 %
+Go           8 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+Other        2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
 ```
 
 <!--END_SECTION:waka-->
