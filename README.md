@@ -14,16 +14,16 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 30 September 2024 - To: 30 October 2024
+From: 01 October 2024 - To: 31 October 2024
 
-Total Time: 62 hrs 37 mins
+Total Time: 63 hrs 10 mins
 
-Java              22 hrs 46 mins  ████████▓░░░░░░░░░░░░░░░░   34.25 %
-YAML              12 hrs 35 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-TypeScript        10 hrs 36 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Markdown          6 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Docker            4 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other             3 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Java              24 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   36.19 %
+YAML              12 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+TypeScript        10 hrs 36 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Markdown          5 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Docker            4 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Other             4 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
