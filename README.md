@@ -14,13 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 26 October 2024 - To: 25 November 2024
+From: 27 October 2024 - To: 26 November 2024
 
-Total Time: 29 hrs 44 mins
+Total Time: 32 hrs 34 mins
 
-Java              14 hrs 21 mins  ██████████▓░░░░░░░░░░░░░░   42.02 %
-JavaScript        5 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Other             4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Java              14 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   38.10 %
+JavaScript        5 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+YAML              5 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Other             5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
 ```
 
 <!--END_SECTION:waka-->
