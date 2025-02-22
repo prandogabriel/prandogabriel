@@ -14,17 +14,17 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 20 January 2025 - To: 19 February 2025
+From: 21 January 2025 - To: 20 February 2025
 
-Total Time: 78 hrs 37 mins
+Total Time: 75 hrs 2 mins
 
-Go                35 hrs 15 mins  ██████████▓░░░░░░░░░░░░░░   43.12 %
-TypeScript        13 hrs 1 min    ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Rust              9 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-YAML              7 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-JSON              4 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Astro             3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Other             3 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Go                34 hrs 3 mins   ███████████░░░░░░░░░░░░░░   43.64 %
+TypeScript        12 hrs 36 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Rust              8 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+YAML              6 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+JSON              3 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Astro             3 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other             3 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
