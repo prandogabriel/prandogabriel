@@ -1,6 +1,6 @@
 <h2>Hi there  👋,</h2> </br>
 
-<p><em>- Platform Engineer at <a href="https://www.ifood.com.br/">iFood</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>- Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p></br>
 
 
