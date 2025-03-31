@@ -4,7 +4,7 @@
 </em></p></br>
 
 
-[![Linkedin: prandogabriel](https://img.shields.io/badge/-prandogabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prandogabriel/)](https://www.linkedin.com/in/prandogabriel)
+<!--[![Linkedin: prandogabriel](https://img.shields.io/badge/-prandogabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prandogabriel/)](https://www.linkedin.com/in/prandogabriel)-->
 ![GitHub followers](https://img.shields.io/github/followers/prandogabriel?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=prandogabriel.prandogabriel)
 [![Waka Readme](https://github.com/prandogabriel/prandogabriel/actions/workflows/update-stats.yml.yml/badge.svg)](https://github.com/prandogabriel/prandogabriel/actions/workflows/update-stats.yml.yml)
