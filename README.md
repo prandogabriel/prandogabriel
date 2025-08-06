@@ -14,12 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 04 July 2025 - To: 03 August 2025
+From: 05 July 2025 - To: 04 August 2025
 
-Total Time: 54 hrs 34 mins
+Total Time: 52 hrs 11 mins
 
-TypeScript   42 hrs 31 mins  ██████████████████▒░░░░░░   73.18 %
-Other        3 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+TypeScript   40 hrs 47 mins  ██████████████████▒░░░░░░   73.64 %
+YAML         3 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other        3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
