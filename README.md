@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 19 December 2025 - To: 18 January 2026
+From: 20 December 2025 - To: 19 January 2026
 
 Total Time: 11 hrs
 
