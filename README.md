@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 04 May 2026 - To: 03 June 2026
+From: 05 May 2026 - To: 04 June 2026
 
-Total Time: 78 hrs 7 mins
+Total Time: 73 hrs 26 mins
 
-TypeScript    55 hrs 50 mins        █████████████████░░░░░░░░   67.90 %
-Markdown      6 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Other         4 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+TypeScript    52 hrs 13 mins        ████████████████▓░░░░░░░░   67.33 %
+Markdown      6 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Other         4 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
